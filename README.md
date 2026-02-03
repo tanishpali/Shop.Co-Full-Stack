@@ -1,1 +1,1 @@
-# E-commerce-Full-Stack
+# Shop.Co-Full-Stack
